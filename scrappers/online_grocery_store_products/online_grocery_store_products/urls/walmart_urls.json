@@ -1,0 +1,92 @@
+[
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Fruit",
+    "subcategoryId": 1,
+    "path": "https://www.walmart.com/browse/food/fresh-fruits/976759_976793_9756351?povid=976759_hubspoke_976793_Shopbycategory_Allfruit_Rweb_July_20&seo=food&seo=fresh-fruits&seo=976759_976793_9756351&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Vegetables",
+    "subcategoryId": 2,
+    "path": "https://www.walmart.com/browse/food/fresh-vegetables/976759_976793_8910423?povid=976759_hubspoke_976793_Shopbycategory_Allvegetables_Rweb_July_20&seo=food&seo=fresh-vegetables&seo=976759_976793_8910423&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Pre-Cut Fruit",
+    "subcategoryId": 3,
+    "path": "https://www.walmart.com/browse/food/fresh-pre-cut-fruits/976759_976793_8402496_9043545?povid=976759_hubspoke_976793_Shopbycategory_Precutfruit_Rweb_July_20&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Pre-Cut Vegetables",
+    "subcategoryId": 4,
+    "path": "https://www.walmart.com/browse/food/fresh-pre-cut-vegetables/976759_976793_8910423_2835097?povid=976759_hubspoke_976793_Shopbycategory_Precutvegetables_Rweb_July_20&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Citrus",
+    "subcategoryId": 5,
+    "path": "https://www.walmart.com/browse/food/citrus/976759_976793_9756351_4914029?povid=976759_hubspoke_976793_Shopbycategory_Citrus_Rweb_July_20&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Avocados",
+    "subcategoryId": 6,
+    "path": "https://www.walmart.com/browse/food/avocados/976759_976793_9756351_2098775?povid=976759_hubspoke_976793_Shopbycategory_Avocados_Rweb_July_20&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Rollbacks",
+    "subcategoryId": 7,
+    "path": "https://www.walmart.com/browse/food/fresh-produce/976759_976793?facet=special_offers%3ARollback&povid=976759_hubspoke_976793_Shopbycategory_Rollbacks_Rweb_July_20&seo=food&seo=fresh-produce&seo=976759_976793&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Salad Kits & Bowls",
+    "subcategoryId": 8,
+    "path": "https://www.walmart.com/browse/food/fresh-packaged-salads-dressings-dips/976759_976793_9538337?povid=976759_hubspoke_976793_Shopbycategory_Saladkitsandbowls_Rweb_July_20&seo=food&seo=fresh-packaged-salads-dressings-dips&seo=976759_976793_9538337&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Lettuce",
+    "subcategoryId": 9,
+    "path": "https://www.walmart.com/browse/food/lettuce-whole-greens/976759_976793_8910423_1740611?povid=976759_hubspoke_976793_Shopbycategory_Lettuce_Rweb_July_20&seo=food&seo=lettuce-whole-greens&seo=976759_976793_8910423_1740611&page=1&affinityOverride=default"
+  },
+  {
+    "company": "Walmart",
+    "companyId": 1,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Salsa & Dips",
+    "subcategoryId": 10,
+    "path": "https://www.walmart.com/browse/food/salsa-dips/976759_976793_9538337_9157112?povid=976759_hubspoke_976793_Shopbycategory_Salsaanddips_Rweb_July_20&page=1&affinityOverride=default"
+  }
+]

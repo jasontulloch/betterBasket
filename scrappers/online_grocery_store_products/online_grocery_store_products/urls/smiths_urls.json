@@ -1,0 +1,11 @@
+[
+  {
+    "company": "Smith's",
+    "companyId": 2,
+    "category": "Fresh Produce",
+    "categoryId": 1,
+    "subcategory": "Berries",
+    "subcategoryId": 1,
+    "path": "https://www.smithsfoodanddrug.com/pl/berries/0611100673?page=1"
+  }
+]
